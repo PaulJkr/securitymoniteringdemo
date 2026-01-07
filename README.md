@@ -160,3 +160,15 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **OWASP Top 10
 - **Verizon Data Breach Investigations Report
 - **Kenya Data Protection Act 2019
+
+## 👥 Author
+- [Paul Omondi](https://github.com/PaulJkr)
+
+## 📞 Need Help?
+- Create an issue on GitHub
+- Ask in the team chat
+- Check the documentation links above
+
+---
+
+**Happy Coding! 🎉**
